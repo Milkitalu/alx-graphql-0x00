@@ -1,0 +1,7 @@
+query {
+  character(page: 1) {
+    id
+    name
+    air_date
+    episode
+}
